@@ -1,3 +1,3 @@
-# References
-
-* octocat 1 😈
+conflicting text with resume in main branch
+woooo
+woooooo
